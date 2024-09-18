@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eknerd.com/blog"/>
     <subtitle>Jainil Prajapati Blog</subtitle>
-    <icon>https://eknerd.com/img/logo.png</icon>
+    <icon>https://eknerd.com/img/logo.webp</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://eknerd.com/blog/welcome</id>
